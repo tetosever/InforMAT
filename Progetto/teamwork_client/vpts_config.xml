@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VptsInfio version="20080410">
+	<Option lastSelectedFilePath="" lastSelectedRepository=""/>
+	<Repositories>
+		<Repository encrypted_password="l/e/oIH3b+tirgs2zXDFDg==" ldapSAMAccountName="" paletteTooltipLastModified="0" path="/vpteamwork/VPTeamworkServer" portNumber="" protocol="vponline://" proxyHost="online.visual-paradigm.com/admin.jsp#systemtools" proxyPort="0" serverHost="jpkoeqhh" twFileFeatureSupport="true" useProxy="false" userDisplayName="M Severgnini9" userName="m.severgnini9@campus.unimib.it">
+			<ClientPermission allow="false" name="allowAccessLockedContent"/>
+			<ClientPermission allow="true" name="manageReferenceProject"/>
+			<ClientPermission allow="true" name="changeProjectOptions"/>
+			<ClientPermission allow="true" name="configProjectStereotype"/>
+			<ClientPermission allow="true" name="configDefaultTaggedValues"/>
+			<ClientPermission allow="true" name="configRequirements"/>
+			<ClientPermission allow="true" name="configProjectManagementLookups"/>
+			<ClientPermission allow="true" name="configViewpoints"/>
+			<ClientPermission allow="true" name="configBusinessRuleKeywords"/>
+			<ClientPermission allow="true" name="configUxStatus"/>
+			<ClientPermission allow="true" name="designPattern"/>
+			<ClientPermission allow="true" name="changeDocTemplate"/>
+			<ClientPermission allow="false" name="manageProjectPublish"/>
+			<ClientPermission allow="false" name="configAutoMirrorModelElement"/>
+			<ClientPermission allow="true" name="customProcessCanvas"/>
+			<ClientPermission allow="true" name="createTag"/>
+			<ClientPermission allow="true" name="createBranch"/>
+			<ClientPermission allow="true" name="mergeBranch"/>
+			<ClientPermission allow="true" name="deleteBranch"/>
+			<Checksum value="6ab3929ac848bd7cfe21b17a1c9a5d3b"/>
+		</Repository>
+	</Repositories>
+	<Projects>
+		<Project checkedOut="true" dateTime="1701017844765" filePath="projects/InforMAT/InforMAT.vpp" lastLocalStatus="0" lastLocalStatusProjectModifiedDate="1701017914463" lastServerRevision="3" name="InforMAT" origVppMd5="4bb71970c49b49425e87a1238db2b6bd" revision="3" workingCopyName="InforMAT">
+			<Repository encrypted_password="l/e/oIH3b+tirgs2zXDFDg==" ldapSAMAccountName="" paletteTooltipLastModified="0" path="/vpteamwork/VPTeamworkServer" portNumber="" protocol="vponline://" proxyHost="online.visual-paradigm.com/admin.jsp#systemtools" proxyPort="0" serverHost="jpkoeqhh" twFileFeatureSupport="true" useProxy="false" userDisplayName="M Severgnini9" userName="m.severgnini9@campus.unimib.it">
+				<ClientPermission allow="false" name="allowAccessLockedContent"/>
+				<ClientPermission allow="true" name="manageReferenceProject"/>
+				<ClientPermission allow="true" name="changeProjectOptions"/>
+				<ClientPermission allow="true" name="configProjectStereotype"/>
+				<ClientPermission allow="true" name="configDefaultTaggedValues"/>
+				<ClientPermission allow="true" name="configRequirements"/>
+				<ClientPermission allow="true" name="configProjectManagementLookups"/>
+				<ClientPermission allow="true" name="configViewpoints"/>
+				<ClientPermission allow="true" name="configBusinessRuleKeywords"/>
+				<ClientPermission allow="true" name="configUxStatus"/>
+				<ClientPermission allow="true" name="designPattern"/>
+				<ClientPermission allow="true" name="changeDocTemplate"/>
+				<ClientPermission allow="false" name="manageProjectPublish"/>
+				<ClientPermission allow="false" name="configAutoMirrorModelElement"/>
+				<ClientPermission allow="true" name="customProcessCanvas"/>
+				<ClientPermission allow="true" name="createTag"/>
+				<ClientPermission allow="true" name="createBranch"/>
+				<ClientPermission allow="true" name="mergeBranch"/>
+				<ClientPermission allow="true" name="deleteBranch"/>
+				<Checksum value="6ab3929ac848bd7cfe21b17a1c9a5d3b"/>
+			</Repository>
+			<ProjectUserPermission>
+				<ClientPermission allow="false" name="allowAccessLockedContent"/>
+				<ClientPermission allow="true" name="manageReferenceProject"/>
+				<ClientPermission allow="true" name="changeProjectOptions"/>
+				<ClientPermission allow="true" name="configProjectStereotype"/>
+				<ClientPermission allow="true" name="configDefaultTaggedValues"/>
+				<ClientPermission allow="true" name="configRequirements"/>
+				<ClientPermission allow="true" name="configProjectManagementLookups"/>
+				<ClientPermission allow="true" name="configViewpoints"/>
+				<ClientPermission allow="true" name="configBusinessRuleKeywords"/>
+				<ClientPermission allow="false" name="configUxStatus"/>
+				<ClientPermission allow="true" name="designPattern"/>
+				<ClientPermission allow="true" name="changeDocTemplate"/>
+				<ClientPermission allow="false" name="manageProjectPublish"/>
+				<ClientPermission allow="false" name="configAutoMirrorModelElement"/>
+				<ClientPermission allow="true" name="customProcessCanvas"/>
+				<ClientPermission allow="true" name="createTag"/>
+				<ClientPermission allow="true" name="createBranch"/>
+				<ClientPermission allow="true" name="mergeBranch"/>
+				<ClientPermission allow="true" name="deleteBranch"/>
+				<Checksum value="1512fc7197f50f978ed55a833658fd27"/>
+			</ProjectUserPermission>
+			<ProjectInfo projectDescription="&lt;html&gt;&#10;  &lt;head&gt;&#10;    &lt;style type=&quot;text/css&quot;&gt;&#10;      &lt;!--&#10;        body { color: #000000; font-family: Dialog; font-size: 12px }&#10;      --&gt;&#10;    &lt;/style&gt;&#10;    &#10;  &lt;/head&gt;&#10;  &lt;body&gt;&#10;  &lt;/body&gt;&#10;&lt;/html&gt;&#10;" projectDisplayName="InforMAT" projectId="AXjeMDGGAqAAEwyZ" projectIntId="1" projectName="InforMAT" version="3"/>
+		</Project>
+	</Projects>
+</VptsInfio>
